@@ -1,4 +1,4 @@
-module github.com/projectdiscovery/utils
+module github.com/ducksify/utils
 
 go 1.24.0
 
